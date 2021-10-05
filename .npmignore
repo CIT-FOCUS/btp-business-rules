@@ -12,3 +12,4 @@ tsconfig.json
 .eslintrc.json
 .prettierrc.json
 .reuse
+.DS_Store
