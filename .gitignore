@@ -10,6 +10,7 @@ node_modules/
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+.DS_Store
 
 # Optional npm cache directory
 .npm
