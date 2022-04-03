@@ -1,6 +1,6 @@
 {
   "name": "@cit-focus/btp-business-rules",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Consume a business rules service instance on BTP-CF",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
